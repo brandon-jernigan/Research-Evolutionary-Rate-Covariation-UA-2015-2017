@@ -16,8 +16,7 @@ pipeline.py is the pipeline run after inparanoid which takes its results and pro
 with branch lengths that the script ERC_concise.R can use to calculate ERC values. This can be split into domains or
 can be for the whole protein. Each funciton in the pipeline has a description within the script.
 
-pipeline_test_script.py is a python unit test script that ensures the major functions in pipeline.py work the way they are supposed to
-even when they get altered.
+pipeline_test_script.py is a python unit test script that ensures the major functions in pipeline.py work the way they are supposed to even when they get altered.
 
 paml_1.sh (and 2, 3, 4) is used to run paml after alignments, tree files, and control files are created for each protein.
 
@@ -42,8 +41,7 @@ domain_type_analysis (see 2-13-2017, 4-3-2017 in Research_Notes): Analysis of ER
 
 ERC: Location of ERC calculating script and results for proteins and domains.
 
-heat_map_script (see 8-8-2016 in Research_Notes): contains script used to calculate the ERC values of 25 amino acid long
-windows which can then be turned into a heat map of the ERC between two amino acid sequences
+heat_map_script (see 8-8-2016 in Research_Notes): contains script used to calculate the ERC values of 25 amino acid long windows which can then be turned into a heat map of the ERC between two amino acid sequences
 
 Hessian_Data (see 7-17-2016 in Research_Notes)
 
