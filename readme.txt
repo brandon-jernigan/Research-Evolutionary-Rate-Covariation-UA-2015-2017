@@ -31,6 +31,7 @@ vert_tree_topology.txt and yeast_tree_topology are the species trees used in PAM
 
 .p files are intermediate files from pipeline.py to save run time
 
+
 Folders:
 
 pipeline_test: folder used to store data files for using pipeline_test_script.py, which tests pipeline.py
