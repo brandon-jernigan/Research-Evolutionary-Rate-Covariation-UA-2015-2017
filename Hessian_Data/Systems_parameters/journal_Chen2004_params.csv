@@ -1,0 +1,126 @@
+Parameter,Dyn infl,Reactions
+J20ppx,0.412471461,degradation_1
+Jacdh,0.091119382,CDH1i_activation
+Jaiep,0.330187139,Activation_of_IEP
+Jamcm,0.857543839,"Synthesis_of_CLB2, Synthesis_of_SWI5, Synthesis_of_inactive_CDC20, PDS1_synthesis"
+Jasbf,0.154386581,"Synthesis_of_CLB5, CDC6_synthesis, PDS1_synthesis, Synthesis_of_CLN2"
+Jatem,0.1375019,TEM1_activation
+Jd2c1,0.36697949,"Phosphorylation_of_C2, Phosphorylation_of_C5, Phosphorylation_of_SIC1"
+Jd2f6,0.908367256,"Phosphorylation_of_CDC6, F5_phosphorylation, F2_phosphorylation"
+Jicdh,0.155373101,Inactivation_3
+Jiiep,0.783946499,Inactivation_1
+Jimcm,3.812323605,"Synthesis_of_CLB2, Synthesis_of_SWI5, Synthesis_of_inactive_CDC20, PDS1_synthesis"
+Jisbf,0.502316897,"Synthesis_of_CLB5, CDC6_synthesis, PDS1_synthesis, Synthesis_of_CLN2"
+Jitem,0.545063603,inactivation_1
+Jpds,0.556034016,degradation_1
+Jspn,1.725774194,Spindle_formation
+ebudb5,0.273458418,Budding
+ebudn2,0.381557276,Budding
+ebudn3,0.004375024,Budding
+ec1b2,0.173076744,"Phosphorylation_of_C2, Phosphorylation_of_C5, Phosphorylation_of_SIC1"
+ec1b5,0.05607746,"Phosphorylation_of_C2, Phosphorylation_of_C5, Phosphorylation_of_SIC1"
+ec1k2,0.078004919,"Phosphorylation_of_C2, Phosphorylation_of_C5, Phosphorylation_of_SIC1"
+ec1n2,2.558002444,"Phosphorylation_of_C2, Phosphorylation_of_C5, Phosphorylation_of_SIC1"
+ec1n3,0.77989752,"Phosphorylation_of_C2, Phosphorylation_of_C5, Phosphorylation_of_SIC1"
+ef6b2,0.302688779,"Phosphorylation_of_CDC6, F5_phosphorylation, F2_phosphorylation"
+ef6b5,0.360514126,"Phosphorylation_of_CDC6, F5_phosphorylation, F2_phosphorylation"
+ef6k2,0.068969626,"Phosphorylation_of_CDC6, F5_phosphorylation, F2_phosphorylation"
+ef6n2,2.52392148,"Phosphorylation_of_CDC6, F5_phosphorylation, F2_phosphorylation"
+ef6n3,0.67861984,"Phosphorylation_of_CDC6, F5_phosphorylation, F2_phosphorylation"
+eicdhb2,0.213684532,Inactivation_3
+eicdhb5,0.336022865,Inactivation_3
+eicdhn2,1.299385855,Inactivation_3
+eicdhn3,0.037528079,Inactivation_3
+eorib2,0.21363898,DNA_synthesis
+eorib5,0.313244325,DNA_synthesis
+esbfb5,0.083681005,"Synthesis_of_CLB5, CDC6_synthesis, PDS1_synthesis, Synthesis_of_CLN2"
+esbfn2,0.916029755,"Synthesis_of_CLB5, CDC6_synthesis, PDS1_synthesis, Synthesis_of_CLN2"
+esbfn3,7.004112307,"Synthesis_of_CLB5, CDC6_synthesis, PDS1_synthesis, Synthesis_of_CLN2"
+k,0.091131912,Inactivation_2
+ka15_p,0.014031631,CDC15_activation
+ka15_p_p,0.48031867,CDC15_activation
+ka15p,0.000298811,CDC15_activation
+ka20_p,1.079464157,Activation_of_CDC20
+ka20_p_p,1.229161693,Activation_of_CDC20
+kacdh_p,0.25310418,CDH1i_activation
+kacdh_p_p,0.463941368,CDH1i_activation
+kaiep,2.858578954,Activation_of_IEP
+kamcm,7.165299791,"Synthesis_of_CLB2, Synthesis_of_SWI5, Synthesis_of_inactive_CDC20, PDS1_synthesis"
+kasb2,0.339716439,Assoc_of_CLB2_and_SIC1
+kasb5,0.286840444,Assoc_of_CLB5_and_SIC1
+kasbf,7.839511288,"Synthesis_of_CLB5, CDC6_synthesis, PDS1_synthesis, Synthesis_of_CLN2"
+kasesp,0.171471015,Assoc_with_ESP1_to_form_PE
+kasf2,1.209203792,CLB2CDC6_complex_formation
+kasf5,0.335895667,CLB5CDC6_complex_formation
+kasrent,0.967654605,Assoc_with_NET1_to_form_RENT
+kasrentp,0.1769307,Assoc_with_NET1P_to_form_RENTP
+kaswi,0.16564439,Activation_of_SWI5
+kd14,4.467070394,"Degradation_of_CDC14_in_RENTP, Degradation_of_CDC14_in_RENT, CDC14_degradation"
+kd1c1,0.280421573,"Phosphorylation_of_C2, Phosphorylation_of_C5, Phosphorylation_of_SIC1"
+kd1f6,0.234235022,"Phosphorylation_of_CDC6, F5_phosphorylation, F2_phosphorylation"
+kd1pds_p,0.794297175,"Degradation_of_PDS1_in_PE, degradation_2"
+kd20,4.393656265,"Degradation_of_active_CDC20, Degradation_of_inactiveCDC20"
+kd2c1,3.507213693,"Phosphorylation_of_C2, Phosphorylation_of_C5, Phosphorylation_of_SIC1"
+kd2f6,3.801682602,"Phosphorylation_of_CDC6, F5_phosphorylation, F2_phosphorylation"
+kd2pds_p_p,2.063237954,"Degradation_of_PDS1_in_PE, degradation_2"
+kd3c1,1.633894738,"Degradation_of_SIC1P_in_C5P_, Degradation_of_SIC1_in_C2P, Fast_Degradation_of_SIC1P"
+kd3f6,2.425422134,"Degradation_of_CDC6P, CDC6_degradation_in_F2P, CDC6_degradation_in_F5P"
+kd3pds_p_p,0.365833913,"Degradation_of_PDS1_in_PE, degradation_2"
+kdb2_p,0.324140553,"Degradation_of_CLB2_in_C2, CLB2_degradation_in_F2P, CLB2_degradation_in_F2, Degradation_of_CLB2_in_C2P, Degradation_of_CLB2"
+kdb2_p_p,0.482302792,"Degradation_of_CLB2_in_C2, CLB2_degradation_in_F2P, CLB2_degradation_in_F2, Degradation_of_CLB2_in_C2P, Degradation_of_CLB2"
+kdb2p,0.492978501,"Degradation_of_CLB2_in_C2, CLB2_degradation_in_F2P, CLB2_degradation_in_F2, Degradation_of_CLB2_in_C2P, Degradation_of_CLB2"
+kdb5_p,0.502045491,"CLB5_degradation_in_F5, Degradation_of_CLB5_in_C5, Degradation_of_CLB5, Degradation_of_CLB5_in_C5P, CLB5_degradation_in_F5P"
+kdb5_p_p,0.402335455,"CLB5_degradation_in_F5, Degradation_of_CLB5_in_C5, Degradation_of_CLB5, Degradation_of_CLB5_in_C5P, CLB5_degradation_in_F5P"
+kdbud,0.530264135,Negative_regulation_of_Cell_budding
+kdcdh,0.920302985,"CDH1i_degradation, CDH1_degradation"
+kdib2,0.021387415,Dissoc_of_CLB2SIC1_complex
+kdib5,0.022617865,Dissoc_of_CLB5SIC1
+kdiesp,0.149488888,Disso_from_PE
+kdif2,0.216903372,CLB2CDC6_dissociation
+kdif5,0.008026963,CLB5CDC6_dissociation
+kdirent,0.805898489,Dissoc_from_RENT
+kdirentp,0.541188803,Dissoc_from_RENP
+kdn2,4.99051035,Degradation_of_CLN2
+kdnet,3.822075112,"Degradation_of_NET1_in_RENT, Net1_degradation, Net1P_degradation, Degradation_of_NET1P_in_RENTP"
+kdori,0.316212414,Negative_regulation_of_DNA_synthesis
+kdppx_p,0.745717185,degradation_1
+kdppx_p_p,0.618636332,degradation_1
+kdspn,3.807353629,Spindle_disassembly
+kdswi,4.801567811,"Degradation_of_SWI5P, Degradation_of_SWI5"
+ki15,0.572354601,inactivation_2
+kicdh_p,0.024828652,Inactivation_3
+kicdh_p_p,1.505781789,Inactivation_3
+kiiep,2.494903006,Inactivation_1
+kimcm,7.165298857,"Synthesis_of_CLB2, Synthesis_of_SWI5, Synthesis_of_inactive_CDC20, PDS1_synthesis"
+kisbf_p,7.805020555,"Synthesis_of_CLB5, CDC6_synthesis, PDS1_synthesis, Synthesis_of_CLN2"
+kisbf_p_p,0.543330127,"Synthesis_of_CLB5, CDC6_synthesis, PDS1_synthesis, Synthesis_of_CLN2"
+kiswi,0.333580053,Inactivation_of_SWI5
+kkpnet_p,0.068441095,"RENT_phosphorylation, NET1_phosphorylation"
+kkpnet_p_p,0.713142861,"RENT_phosphorylation, NET1_phosphorylation"
+kppc1,0.529214507,"Dephosphorylation_of_SIC1, Dephosphorylation_of_C2P, Dephosphorylation_of_C5P"
+kppf6,0.442852049,"F5P_dephosphorylation, Dephosphorylation_of_CDC6, F2P_dephosphorylation"
+kppnet_p,0.071306494,"dephosphorylation_1, dephosphorylation_2"
+kppnet_p_p,0.877823106,"dephosphorylation_1, dephosphorylation_2"
+ks14,4.482106106,CDC14_synthesis
+ks1pds_p_p,1.305830621,PDS1_synthesis
+ks20_p,0.025276269,Synthesis_of_inactive_CDC20
+ks20_p_p,2.975423868,Synthesis_of_inactive_CDC20
+ks2pds_p_p,1.782448312,PDS1_synthesis
+ksb2_p,4.937040118,Synthesis_of_CLB2
+ksb2_p_p,6.744422334,Synthesis_of_CLB2
+ksb5_p,0.260727246,Synthesis_of_CLB5
+ksb5_p_p,1.415378232,Synthesis_of_CLB5
+ksbud,0.638629079,Budding
+ksc1_p,0.964993058,Synthesis_of_SIC1
+ksc1_p_p,2.896758453,Synthesis_of_SIC1
+kscdh,0.99070752,CDH1_synthesis
+ksf6_p,2.137222578,CDC6_synthesis
+ksf6_p_p,2.145310894,CDC6_synthesis
+ksf6_p_p_p,0.336268883,CDC6_synthesis
+ksn2_p_p,5.958786325,Synthesis_of_CLN2
+ksnet,3.888083559,Net1_synthesis
+ksori,0.489702816,DNA_synthesis
+ksppx,1.097169824,PPX_synthesis
+ksspn,7.121537764,Spindle_formation
+ksswi_p,1.060947544,Synthesis_of_SWI5
+ksswi_p_p,1.978294792,Synthesis_of_SWI5

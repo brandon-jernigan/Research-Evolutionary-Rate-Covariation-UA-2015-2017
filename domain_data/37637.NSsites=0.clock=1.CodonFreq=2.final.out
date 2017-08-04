@@ -1,0 +1,214 @@
+
+seed used = 1418809045
+      6   1011
+
+Rattus norvegicus                          --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ATG GCC GCC GAC ATC AGC CAG TGG GCC GGG CCG CTG TCA TTA CAG GAG GTG --- GAT GAG --- CCG CCC CAG CAC GCC CTG AGG GTC GAC TAC GGC GGA GTA ACG GTG GAC GAG CTG GGC AAA GTG CTG ACG CCC ACC CAG GTC ATG AAT AGA CCA AGC AGC ATT TCA TGG GAT GGC CTT GAT CCT GGG AAG CTC TAC ACC CTG GTC CTC ACA GAC CCC GAT GCT CCC AGC AGG AAG GAC CCC AAA TTC AGG GAG TGG CAC CAC TTC CTG GTG GTC AAC ATG AAG --- GGC AAC GAC ATT AGC AGT GGC ACT GTC CTC TCC GAA TAC GTG GGC TCC GGA CCT CCC AAA GAC ACA GGT CTG CAC CGC TAC GTC TGG CTG GTG TAT GAG CAG GAG CAG CCT CTG AAC TGT GAC GAG CCC ATC CTC AGC AAC AAG TCT GGA GAC AAC CGC GGC AAG TTC AAG GTG GAG TCC TTC CGC AAG AAG TAC CAC CTG GGA GCC CCG GTG GCC GGC ACG TGC TTC CAG GCA GAG TGG GAT GAC TCT GTG CCC AAG CTG CAT GAT CAG CTG GCT GGG AAG --- 
+Danio rerio                                --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ATG CCT GTG GAT ATC AAT GAA TGG ACA GGT TCT CTA GCG CTT ACA GAG GTG --- GAG GAA --- CCG CCA GCA AAG CCT CTC ACT GTC AAA TAT GAC TCT GTG GAG ATT GAC TCG CTG GGA AAA GTG TGC ACA CCC ACG CAG GTG CAG AAT CGG CCC ACA TCT ATT GAA TGG GAA GGA TGT GAC CCG AGT AAG CTC TAC ACG CTG GCC ATG ACT GAT CCA GAC GCA CCC AGC CGA AAA GAC CCC AAA TTT CGG GAA TGG CAT CAC TTC CTT GTG GTC AAC GTG AAA --- GGT AAT GAC GTC TCC AGT GGA TGC GTC ATG TCA GAC TAT GTT GGC GCA GGA CCC CCG AAG GGA ACT GGT CTC CAT CGT TAC GTG TGG CTC GTT TAT GAG CAG TCG GGG AAC ATC AGC TGC ACT GAA CGA GTC CTC ACC AAC CGC TCT GGA GAC AAC CGA GGA AAA TTC AAG ATC CAG AGC TTC CGC AAG AAA TAC AGC CTC GGG GCT CCG CTC GCA GGC TCC TGC TTC CAG GCC GAG TGG GAC AAC TAT GTG CCC AAA CTT TAC GAA CAG CTG GCT GGC AAA --- 
+Gallus gallus                              --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ATG CCG GTG GAG CTG GGG CTG TGG GAC GGG CCG CTG AGC CTG AGC GAG GTG --- GAG CAG --- AAA CCC GCG CAC CCG CTG CGC GTC AAG TAT GGC TCC GTG GAG ATA GAC GAG CTG GGC AAG GTG CTC ACG CCT ACG CAG GTG CAG CAC CGA CCC ACC AGC ATC GAG TGG GAC GGC TGC GAC CCC CAG AAG CTC TAC ACG CTG GTG CTC ACC GAC CCC GAC GCG CCC AGT AGG AAG GAT CCG AAG TTC AGA GAA TGG CAT CAC TTC CTG GTG ACC AAC ATG AAA --- GGT AAC GAT GTG GGG AGC GGG ACC GTG CTG TCA GAC TAC GTG GGC TCG GGG CCC CCT AAA GGA ACA GGG CTG CAC CGC TAC GTG TGG CTG GTG TAC GAG CAG CCA AAG CAG CTG ACC TGC AAT GAG CCC ATC CTG TCC AAT CGC TCT GGT GAC AAA CGA GGG AAG TTC AAG GTA GCA GCT TTC CGC AGC AAG TAT GGG CTG GGG GTG CCG GTG GCT GGC ACT TGC TAC CAG GCA GAG TGG GAT GAC TAT GTG CCG AAA CTC TAT GAG CAG CTG TCT GGG AAG --- 
+Homo sapiens                               --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ATG CCG GTG GAC CTC AGC AAG TGG TCC GGG CCC TTG AGC CTG CAA GAA GTG --- GAC GAG --- CAG CCG CAG CAC CCG CTG CAT GTC ACC TAC GCC GGG GCG GCG GTG GAC GAG CTG GGC AAA GTG CTG ACG CCC ACC CAG GTT AAG AAT AGA CCC ACC AGC ATT TCG TGG GAT GGT CTT GAT TCA GGG AAG CTC TAC ACC TTG GTC CTG ACA GAC CCG GAT GCT CCC AGC AGG AAG GAT CCC AAA TAC AGA GAA TGG CAT CAT TTC CTG GTG GTC AAC ATG AAG --- GGC AAT GAC ATC AGC AGT GGC ACA GTC CTC TCC GAT TAT GTG GGC TCG GGG CCT CCC AAG GGC ACA GGC CTC CAC CGC TAT GTC TGG CTG GTT TAC GAG CAG GAC AGG CCG CTA AAG TGT GAC GAG CCC ATC CTC AGC AAC CGA TCT GGA GAC CAC CGT GGC AAA TTC AAG GTG GCG TCC TTC CGT AAA AAG TAT GAG CTC AGG GCC CCG GTG GCT GGC ACG TGT TAC CAG GCC GAG TGG GAT GAC TAT GTG CCC AAA CTG TAC GAG CAG CTG TCT GGG AAG --- 
+Pan troglodytes                            ATG CAA CAA ATT AAG AAA ACC AAA ACG CAA CCA AGG CGA ATT CAA TTG CAT TTT TTT TTC CCA GCG ACA CTT TCT GAG ACA CGA ACC TCT CTC TTA GGC GAA CCT ATT CCA GGG CGC CCT TCA TTT TCA TTT CTT GAA ACA ACA GCC TTG CAG GCC GAG CCG CTG TTC CCG AGA ACT CGG CAG CCA CAG GGA GCA GGT TGC ATG GAC CCA GGA GCG CGA GCG GCC CGG CTC TGC CAG CTT CGG CCA ATC AGA GGC CAG GGA GCG GTG GGC GTG GCG TGG GGC GGT GCG CGG GCT GGG CGG TGG CTG AGG CGC GTG CTC TCA CGT GGT CGC GGG GTC TGC GTC TTC CCG AGC CAG TGT GCT GAG CTC TCC GTG TCG CCT CTG CCG CCC GCG CCT GGC CTA CCG CGG CAC TCC CGG CTG CAC GCT CTG CTT GGC CTC GCC ATG CCG GTG GAC CTC AGC AAG TGG TCC GGG CCC TTG AGC CTG CAA GAA GTG --- GAC GAG --- CAG CCG CAG CAC CCG CTG CAT GTC ACC TAC GCC GGG GCG GCG GTG GAC GAG CTG GGC AAA GTG CTG ACG CCC ACC CAG GTT AAG AAT AGA CCC ACC AGC ATT TCG TGG GAT GGT CTT GAT TCA GGG AAG CTC TAC ACC TTG GTC CTG ACA GAT CCG GAT GCT CCC AGC AGG AAG GAT CCC AAA TAC AGA GAA TGG CAT CAT TTC CTG GTG GTC AAC ATG AAG --- GGC AAT GAC ATC AGC AGT GGC ACA GTC CTC TCC GAT TAT GTG GGC TCG GGG CCT CCC AAG GGC ACA GGC CTC CAC CGC TAT GTC TGG CTG GTT TAC GAG CAG GAC AGG CCG CTA AAG TGT GAC GAG CCC ATC CTC AGC AAC CGA TCT GGA GAC CAC CGT GGC AAA TTC AAG GTG GCG TCC TTC CGT AAA AAG TAT GAG CTC AGG GCC CCG GTG GCC GGC ACA TGT TAC CAG GCC GAG TGG GAT GAC TAT GTG CCC AAA CTG TAC GAG CAG CTG TCT GGG AAG --- 
+Mus musculus                               --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ATG GCC GCC GAC ATC AGC CAG TGG GCC GGG CCC TTG TGC TTG CAG GAG GTG --- GAC GAG --- CCG CCC CAG CAC GCC CTG CGG GTC GAC TAC GCC GGG GTG ACG GTG GAC GAG CTG GGC AAA GTG CTA ACG CCC ACC CAG GTT ATG AAC AGG CCC AGC AGC ATT TCA TGG GAC GGC CTT GAT CCT GGG AAA CTC TAC ACC CTG GTC CTC ACA GAC CCC GAT GCT CCC AGC AGG AAG GAT CCC AAA TTC AGG GAG TGG CAC CAC TTC CTG GTG GTC AAC ATG AAG --- GGT AAT GAC ATT AGC AGT GGC ACT GTC CTC TCA GAT TAT GTG GGC TCC GGG CCT CCC AGT GGC ACA GGT CTC CAC CGC TAT GTC TGG CTG GTG TAC GAG CAG GAA CAG CCG CTG AGC TGC GAC GAG CCC ATT CTC AGC AAC AAG TCT GGA GAC AAT CGC GGC AAG TTC AAG GTG GAG ACC TTC CGC AAG AAG TAT AAC CTG GGA GCC CCG GTG GCG GGC ACG TGC TAC CAA GCC GAG TGG GAT GAC TAT GTG CCC AAG CTG TAC GAG CAG CTG TCA GGG AAG --- 
+
+
+
+Printing out site pattern counts
+
+
+         6        645  P
+
+Rattus norvegicus                           --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAA AAA AAC AAC AAC AAC AAC AAG AAG AAG AAG AAG AAG AAG AAG AAT ACA ACA ACC ACG ACG ACG ACT AGA AGC AGC AGC AGC AGC AGC AGG AGG AGG AGT ATC ATC ATG ATG ATG ATT ATT CAC CAC CAC CAC CAC CAG CAG CAG CAG CAG CAG CAT CCA CCC CCC CCC CCC CCC CCC CCG CCG CCG CCT CCT CCT CGC CGC CGC CTC CTC CTC CTC CTG CTG CTG CTG CTG CTG CTG CTG CTG CTG CTT GAA GAC GAC GAC GAC GAC GAC GAC GAC GAC GAG GAG GAG GAG GAG GAG GAG GAG GAT GAT GAT GAT GAT GCA GCC GCC GCC GCC GCC GCT GCT GGA GGA GGA GGA GGC GGC GGC GGC GGC GGC GGG GGG GGG GGT GTA GTC GTC GTC GTC GTC GTC GTG GTG GTG GTG GTG GTG TAC TAC TAC TAC TAC TAT TCA TCA TCC TCC TCC TCT TCT TGC TGG TGT TTA TTC TTC TTC
+Danio rerio                                 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAA AAG AAC AAC AAC AAT AGC AAA AAA AAA AAA AAG AAG AAG CGC AAT ACT ACT ACG ACA GAG TCC TGC CGG AAT ACA ACC AGC TCC TCT ACT CGA CGG AGT ATC GTC ATG CAG GTG ATT GTC AAG AGC CAC CAT CAT ACA CAG CAG GAA GCA GGG TAC CCC CCA CCC CCC CCC CCG CGA CCG CCG TCT AAC CCC CCG CGA CGC CGT ATG ATG CTC CTC ATC CTA CTC CTC CTC CTG CTG CTT CTT TGC TGT GAC AAA AAC ACT GAC GAC GAC GAT GAT GGA CAG GAA GAA GAA GAG GAG TCG TCG GAA GAA GAC GAC GAG GCC ACA CCT GCA GCT GTG GCA GCT GGA GGA GGG TCT GAC GGA GGA GGA GGC GGT AGT GGC GGT GGT GTG GCC GTC GTC GTC GTG GTG ATC ATT CTC GTG GTT GTT TAC TAC TAC TAT TAT TAT GAA GCG AGC GCA TCA TAT TCT TGC TGG TGC CTT TTC TTC TTT
+Gallus gallus                               --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAG AAA AAA AAC AAT AAC ACC AAA AAA AAG AAG AAG AAG AGC CGC CAC ACA ACC ACG ACG GAG ACT ACC CGA GGG ACC TCC AGT GGG AGC CGC AGG AGA AGC CTG ATC ATG CAG ATG ATC GTG CAC GGG CAC CAC CAT AGC CAG CAG CTG GCG AAG TAT CCC CCC CCC CCG CCT CCT CCC AAA CCG CCG CAG CCC CCC CGA CGC CGC CTC CTG CTC CTG CTG CTG CTG CTG CTG CTG CTG CTC CTG CTC TGC GAC AAG GAC AAT GAC GAT GAT GAC GAG GGA GCA CAG GAA GAG GAG GAG CCA GAG GAC GAG GAC GAT GAG GCA GAC CCG GCT GTG GTG GCG TCT GGG GGT GGG TCC GGC GGC GGC GGG GGC GGT CAG GGG GGG GGG GTG GTG ACC GTC GTG GTG GTG GTA ATA GTG GTG GTG GTG TAC TAC TAT TAC TAT TAC GAG AGC GCT TCG TCA TAT TCT TGC TGG TGC CTG TAC TTC TTC
+Homo sapiens                                --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAA AAG CAC AAC AAC AAT AAG AAA AAG AAA AAG AAG AAG AAA CGA AAT ACA ACA ACC ACG GCG ACG ACA AGA AGC ACC AGC AGC AGC AGC CAT AGG AGA AGT CTC ATC ATG AAG ATG ATT ATC CAC GAG CAT CAC CAT CAA CAG CAG AAG CAG AGG TAC CCC CCG CCC CCC CCC CCC CCC CAG CCG CCC CCG CCT TCA CGT CGT CGC CTG CTC CTC CTC CTA TTG CTC CTC CTG CTG TTG CTG CTG CTG CTT GAT ACC GAC GAC GAC GAC GAT GAC GAC GGC GCG GAG GAA GAG GAA GAG GAC GAG GAT GAG GAT GAT GAC GCC TCC CCG GCT GCC GTG GCT TCT GGG GGA AGG GGG GCC GGC GGT GGC GGC GGC GGG GGG GGG GGC GCG GTC GTC GTC GTC GTC GTT GTG GTG GTG GTG GTG GTT TAC TAT TAT TAT TAC TAC TCG AGC TCC TCG TCC TAT TCT TGT TGG TGT CTG TAC TTC TAC
+Pan troglodytes                             --- AAA AAG ACA ACC ACG ACT AGA AGC AGG ATC ATG ATT CAA CAC CAG CAT CCA CCC CCG CCT CGA CGC CGG CGT CTA CTC CTG CTT GAA GAC GAG GCA GCC GCG GCT GGA GGC GGG GGT GTC GTG TCA TCC TCG TCT TGC TGG TGT TTA TTC TTG TTT AAA AAG CAC AAC AAC AAT AAG AAA AAG AAA AAG AAG AAG AAA CGA AAT ACA ACA ACC ACG GCG ACA ACA AGA AGC ACC AGC AGC AGC AGC CAT AGG AGA AGT CTC ATC ATG AAG ATG ATT ATC CAC GAG CAT CAC CAT CAA CAG CAG AAG CAG AGG TAC CCC CCG CCC CCC CCC CCC CCC CAG CCG CCC CCG CCT TCA CGT CGT CGC CTG CTC CTC CTC CTA TTG CTC CTC CTG CTG TTG CTG CTG CTG CTT GAT ACC GAC GAC GAC GAC GAT GAT GAC GGC GCG GAG GAA GAG GAA GAG GAC GAG GAT GAG GAT GAT GAC GCC TCC CCG GCC GCC GTG GCT TCT GGG GGA AGG GGG GCC GGC GGT GGC GGC GGC GGG GGG GGG GGC GCG GTC GTC GTC GTC GTC GTT GTG GTG GTG GTG GTG GTT TAC TAT TAT TAT TAC TAC TCG AGC TCC TCG TCC TAT TCT TGT TGG TGT CTG TAC TTC TAC
+Mus musculus                                --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AAA AGT AAT AAC AAC AAT AGC AAG AAG AAG AAG AAA AAG AAG AAG AAC ACA ACA ACC ACG ACG ACG ACT AGG AGC AGC AGC AGC AGC AGC CGG AGG AGG AGT ATC ATT ATG ATG ATG ATT ATT CAC AAC CAC CAC CAC CAG CAA CAG CAG CAG CAG TAC CCC CCC CCC CCC CCC CCC CCC CCG CCG CCC CCG CCT CCT CGC CGC CGC CTC CTC CTC CTC CTG TTG CTC CTG CTG CTG CTG CTG CTG CTA CTT GAT GAC GAC GAC GAC GAC GAT GAC GAC GGC GAG GAG GAG GAG GAG GAG GAA GAG GAC GAG GAT GAT GAC GCC GCC GCC GCG GCC GCC GCT TCA GGG GGA GGA GGG GCC GGC GGC GGC GGC GGT GGG GGG GGG GGT GTG GTC GTC GTC GTC GTC GTT GTG GTG GTG GTG GTG GTG TAC TAT TAT TAT TAC TAC TCA TGC ACC TCC TCA TAT TCT TGC TGG TGC TTG TAC TTC TTC
+
+
+
+    4    2    1    4    2    1    1    2    1    2    1    2    3    4    2
+    6    1    6    1    5    4    3    3    7    1    1    5    5    4    2
+    1    3    1    4    7    3    3    6    3    3    2    4    3    2    1
+    2    3    2    1    1    3    2    4    2    1    1    1    1    1    1
+    1    1    1    3    1    1    1    1    1    1    1    2    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    3    1    1    1
+    1    1    2    1    2    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    2    2    1    1    1
+    1    1    1    1    1    1    2    1    1    1    1    1    1    1    1
+    1    1    2    1    1    1    1    2    1    1    1    1    2    1    1
+    1    1    1    1    1    1    1    1    1    1    2    2    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    4    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    5
+    1    1    1    3    1
+
+CODONML (in paml version 4.4b, July 2010)  torun.nuc
+Model: One dN/dS ratio for branches Global clock 
+Codon frequency model: F3x4
+ns =   6  ls = 337
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------
+Phe TTT  0  1  0  0  4  0 | Ser TCT  2  4  2  2  4  1 | Tyr TAT  1  4  4  4  4  4 | Cys TGT  1  1  0  2  3  0
+    TTC  5  4  4  3  6  4 |     TCC  3  2  2  3  5  1 |     TAC  5  4  5  6  6  5 |     TGC  1  4  3  0  3  3
+Leu TTA  1  0  0  0  1  0 |     TCA  2  1  1  1  4  3 | *** TAA  0  0  0  0  0  0 | *** TGA  0  0  0  0  0  0
+    TTG  0  0  0  2  4  2 |     TCG  0  2  1  2  3  0 |     TAG  0  0  0  0  0  0 | Trp TGG  5  5  5  5  7  5
+--------------------------------------------------------------------------------------------------------------
+Leu CTT  1  3  0  1  5  1 | Pro CCT  3  2  2  1  5  2 | His CAT  1  2  1  3  4  0 | Arg CGT  0  1  0  2  3  0
+    CTC  4  7  4  6 11  5 |     CCC  8  6  7  8  9 10 |     CAC  5  1  4  3  5  4 |     CGC  3  2  4  1  4  3
+    CTA  0  1  0  1  2  1 |     CCA  1  2  1  0  6  0 | Gln CAA  0  0  0  1  5  1 |     CGA  0  3  2  1  4  0
+    CTG 12  3 15  9 14  9 |     CCG  3  4  6  6 11  3 |     CAG  8  6  8  6 12  7 |     CGG  0  2  0  0  7  1
+--------------------------------------------------------------------------------------------------------------
+Ile ATT  2  2  0  1  4  3 | Thr ACT  1  4  1  0  1  1 | Asn AAT  1  3  2  2  2  2 | Ser AGT  1  2  1  1  1  2
+    ATC  2  3  2  2  3  1 |     ACC  2  1  5  4  6  3 |     AAC  5  5  2  2  2  4 |     AGC  6  4  5  6  7  7
+    ATA  0  0  1  0  0  0 |     ACA  2  4  1  3  8  2 | Lys AAA  3  9  5  5  7  3 | Arg AGA  1  0  1  2  4  0
+Met ATG  3  3  2  2  4  3 |     ACG  3  2  3  2  2  3 |     AAG 10  5 10 10 11  9 |     AGG  3  0  1  3  5  3
+--------------------------------------------------------------------------------------------------------------
+Val GTT  0  2  0  2  2  1 | Ala GCT  2  2  2  2  4  1 | Asp GAT  6  2  3  6  7  5 | Gly GGT  1  3  2  1  4  2
+    GTC  6  5  1  5  7  5 |     GCC  6  2  0  3  8  7 |     GAC 10  9  9  9  9 10 |     GGC  8  3  5  8 14  7
+    GTA  1  0  1  0  0  0 |     GCA  1  4  2  0  1  0 | Glu GAA  1  7  1  2  4  1 |     GGA  4  7  1  1  4  2
+    GTG  9  9 15  9 13 10 |     GCG  0  1  2  3 10  1 |     GAG  9  5 10  7 10  9 |     GGG  3  2 10  5  8  5
+--------------------------------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: Rattus norvegicus
+position  1:    T:0.13904    C:0.26203    A:0.24064    G:0.35829
+position  2:    T:0.24599    C:0.20856    A:0.34759    G:0.19786
+position  3:    T:0.12299    C:0.42246    A:0.09091    G:0.36364
+Average         T:0.16934    C:0.29768    A:0.22638    G:0.30660
+
+#2: Danio rerio    
+position  1:    T:0.17112    C:0.24064    A:0.25134    G:0.33690
+position  2:    T:0.22995    C:0.22995    A:0.33155    G:0.20856
+position  3:    T:0.20321    C:0.33155    A:0.20321    G:0.26203
+Average         T:0.20143    C:0.26738    A:0.26203    G:0.26916
+
+#3: Gallus gallus  
+position  1:    T:0.14439    C:0.28877    A:0.22460    G:0.34225
+position  2:    T:0.24064    C:0.20321    A:0.34225    G:0.21390
+position  3:    T:0.10695    C:0.33155    A:0.09091    G:0.47059
+Average         T:0.16399    C:0.27451    A:0.21925    G:0.34225
+
+#4: Homo sapiens   
+position  1:    T:0.16043    C:0.26203    A:0.24064    G:0.33690
+position  2:    T:0.22995    C:0.21390    A:0.35294    G:0.20321
+position  3:    T:0.16043    C:0.36898    A:0.09091    G:0.37968
+Average         T:0.18360    C:0.28164    A:0.22816    G:0.30660
+
+#5: Pan troglodytes
+position  1:    T:0.16216    C:0.32132    A:0.20120    G:0.31532
+position  2:    T:0.24024    C:0.26126    A:0.26426    G:0.23423
+position  3:    T:0.17117    C:0.31532    A:0.15015    G:0.36336
+Average         T:0.19119    C:0.29930    A:0.20521    G:0.30430
+
+#6: Mus musculus   
+position  1:    T:0.14973    C:0.25134    A:0.24599    G:0.35294
+position  2:    T:0.24064    C:0.20321    A:0.34225    G:0.21390
+position  3:    T:0.13369    C:0.42246    A:0.06952    G:0.37433
+Average         T:0.17469    C:0.29234    A:0.21925    G:0.31373
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT       5 | Ser S TCT      15 | Tyr Y TAT      21 | Cys C TGT       7
+      TTC      26 |       TCC      16 |       TAC      31 |       TGC      14
+Leu L TTA       2 |       TCA      12 | *** * TAA       0 | *** * TGA       0
+      TTG       8 |       TCG       8 |       TAG       0 | Trp W TGG      32
+------------------------------------------------------------------------------
+Leu L CTT      11 | Pro P CCT      15 | His H CAT      11 | Arg R CGT       6
+      CTC      37 |       CCC      48 |       CAC      22 |       CGC      17
+      CTA       5 |       CCA      10 | Gln Q CAA       7 |       CGA      10
+      CTG      62 |       CCG      33 |       CAG      47 |       CGG      10
+------------------------------------------------------------------------------
+Ile I ATT      12 | Thr T ACT       8 | Asn N AAT      12 | Ser S AGT       8
+      ATC      13 |       ACC      21 |       AAC      20 |       AGC      35
+      ATA       1 |       ACA      20 | Lys K AAA      32 | Arg R AGA       8
+Met M ATG      17 |       ACG      15 |       AAG      55 |       AGG      15
+------------------------------------------------------------------------------
+Val V GTT       7 | Ala A GCT      13 | Asp D GAT      29 | Gly G GGT      13
+      GTC      29 |       GCC      26 |       GAC      56 |       GGC      45
+      GTA       2 |       GCA       8 | Glu E GAA      16 |       GGA      19
+      GTG      65 |       GCG      17 |       GAG      50 |       GGG      33
+------------------------------------------------------------------------------
+
+(Ambiguity data are not used in the counts.)
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.15536    C:0.27681    A:0.23028    G:0.33754
+position  2:    T:0.23817    C:0.22476    A:0.32256    G:0.21451
+position  3:    T:0.15221    C:0.35962    A:0.11987    G:0.36830
+Average         T:0.18191    C:0.28707    A:0.22424    G:0.30678
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.00579711  0.01369680  0.00456560  0.01402720
+  0.00547078  0.01292578  0.00430859  0.01323759
+  0.00785105  0.01854964  0.00000000  0.00000000
+  0.00522124  0.01233619  0.00000000  0.01263377
+  0.01032886  0.02440394  0.00813465  0.02499263
+  0.00974743  0.02303021  0.00767674  0.02358576
+  0.01398842  0.03305037  0.01101679  0.03384763
+  0.00930281  0.02197971  0.00732657  0.02250992
+  0.00859267  0.02030185  0.00676728  0.02079159
+  0.00810898  0.01915903  0.00638634  0.01962120
+  0.01163709  0.02749489  0.00916496  0.02815814
+  0.00773909  0.01828511  0.00609504  0.01872620
+  0.01259473  0.02975751  0.00991917  0.03047534
+  0.01188576  0.02808242  0.00936081  0.02875984
+  0.01705711  0.04030073  0.01343358  0.04127290
+  0.01134360  0.02680146  0.00893382  0.02744799
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Pairwise deletion)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+Rattus norvegicus   
+Danio rerio          0.1163 (0.2284 1.9644)
+Gallus gallus        0.1782 (0.1870 1.0496) 0.0914 (0.1918 2.0983)
+Homo sapiens         0.1557 (0.0939 0.6030) 0.1137 (0.2189 1.9247) 0.1228 (0.1431 1.1658)
+Pan troglodytes      0.1515 (0.0939 0.6200) 0.1194 (0.2189 1.8335) 0.1156 (0.1431 1.2386) 0.0000 (0.0000 0.0227)
+Mus musculus         0.1022 (0.0334 0.3265) 0.0895 (0.2208 2.4667) 0.1580 (0.1663 1.0524) 0.1646 (0.0775 0.4706) 0.1551 (0.0775 0.4993)
+
+
+TREE #  1:  ((((4, 5), (6, 1)), 3), 2);   MP score: -1
+lnL(ntime:  5  np:  7):  -2631.740028      +0.000000
+   7..8     8..9     9..10   10..4    10..5     9..11   11..6    11..1     8..3     7..2  
+ 1.061765 0.786182 0.328268 0.008667 0.148915 1.653030 0.082418
+SEs for parameters:
+ 0.111414 0.079199 0.033016 0.005134 0.021161 0.243894 0.011142
+
+tree length =   3.39556
+
+((((4: 0.008667, 5: 0.008667): 0.319601, (6: 0.148915, 1: 0.148915): 0.179352): 0.457914, 3: 0.786182): 0.275584, 2: 1.061765);
+
+((((Homo sapiens: 0.008667, Pan troglodytes: 0.008667): 0.319601, (Mus musculus: 0.148915, Rattus norvegicus: 0.148915): 0.179352): 0.457914, Gallus gallus: 0.786182): 0.275584, Danio rerio: 1.061765);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  1.65303
+
+omega (dN/dS) =  0.08242
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   7..8      0.276   795.5   215.5  0.0824  0.0272  0.3304  21.7  71.2
+   8..9      0.458   795.5   215.5  0.0824  0.0453  0.5491  36.0 118.3
+   9..10     0.320   795.5   215.5  0.0824  0.0316  0.3832  25.1  82.6
+  10..4      0.009   795.5   215.5  0.0824  0.0009  0.0104   0.7   2.2
+  10..5      0.009   795.5   215.5  0.0824  0.0009  0.0104   0.7   2.2
+   9..11     0.179   795.5   215.5  0.0824  0.0177  0.2151  14.1  46.3
+  11..6      0.149   795.5   215.5  0.0824  0.0147  0.1786  11.7  38.5
+  11..1      0.149   795.5   215.5  0.0824  0.0147  0.1786  11.7  38.5
+   8..3      0.786   795.5   215.5  0.0824  0.0777  0.9427  61.8 203.1
+   7..2      1.062   795.5   215.5  0.0824  0.1049  1.2731  83.5 274.3
+
+tree length for dN:       0.3356
+tree length for dS:       4.0715
+
+
+Time used:  0:06

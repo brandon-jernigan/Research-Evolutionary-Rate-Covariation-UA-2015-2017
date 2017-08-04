@@ -1,0 +1,211 @@
+
+seed used = 1418842021
+      6    333
+
+castellii                                  ATG TCA CAA CAG ATA AAA ACA CCA --- --- --- --- --- --- --- --- CAG CAA CAA CAA --- --- CTC TCG ATT AAG ATA AAA AGT TTG AAG TTG AAA AGG ATT AAT GAG CTT AAC AAT AAC TTG AAA CAG GAA CTT AGT CGA GAA AGA ATA ACC GCT TCT AAT GCA TGC CTC ACA ATA ATA AAT TAT ACC CAA ACT GTA AAG GAT TAC GCC CTG CCT GAA ATA TGG GGG TAC CCT CAA CCT AAT TCA AAC CAT TTC AGA ACA AAT TTG AAT AGA TCC ATA CAG AGA AGC GGA ACA TAC ACG GCG GAT TCT GCA GGT TGC TGT GCT ATA ATG 
+mikatae                                    ATG TCT GTA CTT CAA GAT TCA CCA CGG CTG CAA AAA CCT CAG GAG CAA CAG CAG CAG CAG --- --- CTT TCG CTG AAG ATA AAA CAA TTG AAG TTA AAA AGA ATC AAT GAA CTA AAT AAT AAA TTG AGA AAA GAA CTC AGT CGT GAA AGA ATT ACC GCA TCG AAC GCT TGT CTT ACG ATA ATA AAC TAT ACC TCG AAT ACA AAA GAC TAC GCT TTG CCA GAA CTA TGG GGC TAT CCC ACG ACA GGA TCA AAC CAT TTC AGA GAG GGT TTA AAA AAT --- CAA AAA AAT AGT CAG ATG TCA CAT TCA AAT AAT GTT --- TGC TGT ACG ATT ATG 
+kluyveri                                   ATG TCT TCA GAA GAG CAG CAA CCT --- --- --- --- --- --- --- --- CAA TCA CAA AAG --- --- TTG TCT TTA AGA ATC CAG TAT TTG AAA CTA AAA AGA ATC GAT GAA CTA AAT AAC AAG CTG AAA CAG GAG CTA GGA CGT GAT CGT ATC ACT GCA TCC AAC GCA TGT TTG AGT ATT ATT GAT TAT GCA ACA ACA CAC AGA GAT TAC GCG TTA GCA GAG ATT TGG GGT TAT CCA CCA CCA GGT TCA AAC CCA TTT AGA GAA AAT ATG AAC AAA AAT TTA CGA AGG GGT GGC AGC GTG CAA GAT ACC AAC AAC --- TGC TGT GCA ATT ATG 
+cerevisiae                                 ATG ACA TCA GTT CAA AAC TCT CCA CGC TTA CAA CAA CCT CAG GAA CAG CAA CAG CAA CAG CAA CAG CTT TCC TTA AAG ATA AAA CAA TTG AAG TTA AAA AGA ATC AAC GAA CTT AAC AAT AAA CTG AGG AAA GAA CTC AGC CGT GAA AGA ATT ACT GCT TCA AAT GCA TGT CTT ACA ATA ATA AAC TAT ACC TCG AAT ACA AAA GAT TAT ACA TTA CCA GAA CTA TGG GGC TAC CCC GTA GCA GGA TCA AAT CAT TTT ATA GAG GGT TTG AAA AAT GCT CAA AAA AAT AGC CAA ATG TCA AAC TCA AAT AGT GTT --- TGT TGT ACG CTT ATG 
+paradoxus                                  ATG TCA TCA GCT CAA AAC TCT CCA CGC TTA CAA GAG TCT CAG GAA CAG CAG CAA CAA CAG --- --- CTT TCC TTG AAG ATA AAA CAG TTG AAG TTG AGA AGA ATC AAC GAA CTA AAC AAT AAA TTG AGA AAA GAA CTC AGC CGT GAA AGA ATT ACT GCC TCA AAC GCA TGT CTT ACG ATA ATA AAC TAT ACC TCA AAT ACA AAA GAT TAT ACT TTA CCA GAA CTA TGG GGC TAC CCT ACA GCA GGA TCA AAT CAT TTT ATA GAG GGT TTA AAA AAT GCT CAA AAA AAT AGT CAA ATG TCA AGT TCA AAT ACT GCT --- TGT TGT ACG CTT ATG 
+kudriavzevii                               ATG TCT GCT ATT CAG AAC TCG CCA CGC TTG CAA GAG TCC CAG GAC CAG CAG CAA CAG CAG --- --- CTC TCG TTA AAA ATA AAA CAG TTG AAG TTG AAA AGA ATC AAC GAA CTC AAT AAC AAG CTC AGA AAA GAA CTC AGC CGT GAA AGA ATT ACT GCT TCA AAC GCA TGT CTT ACG ATA ATA AAC TAC ACT TCA AAT ACA AAA GAT TAT ACT CTA CCT GAT CTA TGG GGA TAC CCT GCA GCG GGT TCG AAT CAT TTT AGA GAA GGT TTG AGA ATT GCT CAA AAA AAA AAT CAA ATG TCA AAT TCA AAT AAT GCT --- TGT TGT ACG CTT ATG 
+
+
+
+Printing out site pattern counts
+
+
+         6        330  P G
+G 2        1    109
+
+castellii                                   ATG --- --- --- --- --- --- --- --- --- --- AAA AAA AAA AAA AAC AAC AAC AAG AAG AAG AAT AAT AAT AAT AAT AAT AAT ACA ACA ACA ACA ACC ACC ACG ACT AGA AGA AGA AGA AGC AGG AGT AGT ATA ATA ATA ATA ATA ATA ATA ATG ATT ATT CAA CAA CAA CAA CAA CAA CAG CAG CAG CAG CAT CCA CCT CCT CCT CGA CTC CTC CTG CTT CTT GAA GAA GAA GAG GAT GAT GCA GCA GCC GCG GCT GCT GGA GGG GGT GTA TAC TAC TAC TAT TCA TCA TCC TCG TCT TCT TGC TGC TGG TGT TTC TTG TTG TTG TTG
+mikatae                                     ATG --- --- AAA CAA CAA CAG CCT CGG CTG GAG AAA AAA AGA GAT AAA AAC AAT AAA AAG AAG AAA AAC AAC AAT AAT GGA GGT ACG ATG GAG TCA ACC ACC CAT AAT AAT AAT AGA AGA AGT AGA AGT CAA ATA ATA ATT ATT CAA CAA CTA ATG ATC CTG ACG CAG CAG CAG GTA TCG AAA AAA CAG CTT CAT CCA ACA CCA CCC CGT CTT CTT TTG CTA CTC GAA GAA GAA GAA AAT GAC GCT GTT GCT TCA ACG GCA CAG GGC --- ACA TAC TAT TCA TAT TCA TCT --- TCG AAT TCG TGC TGT TGG TGT TTC TTA TTA TTG TTG
+kluyveri                                    ATG --- --- --- --- --- --- --- --- --- --- AAA CAG AAA CAG AAG AAC AAT AGA AAA AGA AAC AAC GAT AAC GAT GGT AAT AGT AGC GAA CAA ACT GCA CAA ACA AAA AGG AGA CGT GGT AGA GGA TAT ATC ATT ATC ATT GAG TTA ATT ATG ATC TTA CCA AAG CAA TCA TCA ACA CAG CGA CAA GAA CCA CCT CCA GCA CCA CGT TTG TTG TTA CTA CTA GAG GAG GAT GAA ACC GAT GCA AAC GCG GAT GCA GCA GGC GGT --- CAC TAC TAT GTG TAT TCA TCT AAT TCT AAC TCC TGC TGT TGG TGT TTT ATG CTA CTG TTG
+cerevisiae                                  ATG CAA CAG CAA CAA CAG CAG CCT CGC TTA GAA AAA AAA AGG AAC AAA AAT AAC AAA AAG AAG AAA AAT AAC AAT AAC GGA GGT ACA ATG GAG TCT ACT ACC AAC AAT AAT AAT ATA AGA AGC AGA AGC CAA ATA ATA ATT CTT CAA CAA CTA ATG ATC TTA GTA CAG CAA CAG TCA TCG AAA AAA CAA GTT CAT CCA GCA CCA CCC CGT CTT CTT TTA CTT CTC GAA GAA GAA GAA AAT GAT GCA GTT ACA TCA ACG GCT CAA GGC --- ACA TAT TAC TCA TAT TCA ACA GCT TCC AGT TCA TGT TGT TGG TGT TTT TTG TTA CTG TTG
+paradoxus                                   ATG --- --- GAG CAA CAG CAG TCT CGC TTA GAA AGA AAA AGA AAC AAA AAT AAC AAA AAG AAG AAA AAC AAC AAT AAC GGA GGT ACG ATG GAG TCT ACT ACC AGT AAT AAT AAT ATA AGA AGT AGA AGC CAG ATA ATA ATT CTT CAA CAA CTA ATG ATC TTG ACA CAG CAA CAA TCA TCA AAA AAA CAG GCT CAT CCA GCA CCA CCT CGT CTT CTT TTA CTA CTC GAA GAA GAA GAA AAT GAT GCA GCT ACT TCA ACG GCC CAA GGC --- ACA TAT TAC TCA TAT TCA TCA GCT TCC ACT TCA TGT TGT TGG TGT TTT TTA TTG TTG TTG
+kudriavzevii                                ATG --- --- GAG CAA CAG CAG TCC CGC TTG GAC AAA AAA AGA AAC AAG AAT AAT AAA AAG AAA AGA AAC AAC AAC AAC GGT GGT ACG ATG GAA TCG ACT ACT AAT AAT ATT AAA AGA AGA AAT AGA AGC CAG ATA ATA ATT CTT CAG CAA CTA ATG ATC TTA GCA CAG CAG CAA GCT TCA AAA AAA CAG ATT CAT CCA GCG CCT CCT CGT CTC CTT CTA CTC CTC GAA GAT GAA GAA AAT GAT GCA GCT ACT TCA ACG GCT CAA GGA --- ACA TAT TAC TCA TAC TCG TCT GCT TCG AAT TCA TGT TGT TGG TGT TTT TTG TTG CTC TTG
+
+
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    2    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1
+
+CODONML (in paml version 4.4b, July 2010)  torun.nuc
+Model: One dN/dS ratio for branches Global clock  (2 genes: diff. rate & k&w)  
+Codon frequency model: F3x4
+ns =   6  ls = 111
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------
+Phe TTT  0  0  1  1  1  1 | Ser TCT  2  1  2  1  2  1 | Tyr TAT  1  2  3  2  2  1 | Cys TGT  1  2  2  3  3  3
+    TTC  1  1  0  0  0  0 |     TCC  1  0  1  1  1  1 |     TAC  3  1  1  1  1  2 |     TGC  2  1  1  0  0  0
+Leu TTA  0  2  3  4  3  1 |     TCA  2  4  3  5  7  4 | *** TAA  0  0  0  0  0  0 | *** TGA  0  0  0  0  0  0
+    TTG  4  3  3  2  4  4 |     TCG  1  3  0  1  0  3 |     TAG  0  0  0  0  0  0 | Trp TGG  1  1  1  1  1  1
+--------------------------------------------------------------------------------------------------------------
+Leu CTT  2  3  0  4  3  2 | Pro CCT  3  1  1  1  1  2 | His CAT  1  2  0  1  1  1 | Arg CGT  0  1  2  1  1  1
+    CTC  2  1  0  1  1  4 |     CCC  0  1  0  1  0  0 |     CAC  0  0  1  0  0  0 |     CGC  0  0  0  1  1  1
+    CTA  0  2  3  1  2  2 |     CCA  1  2  4  2  2  1 | Gln CAA  6  5  4  9  6  4 |     CGA  1  0  1  0  0  0
+    CTG  1  2  1  1  0  0 |     CCG  0  0  0  0  0  0 |     CAG  4  6  3  5  5  7 |     CGG  0  1  0  0  0  0
+--------------------------------------------------------------------------------------------------------------
+Ile ATT  2  2  4  1  1  3 | Thr ACT  1  0  1  1  3  3 | Asn AAT  7  8  3  7  6  7 | Ser AGT  2  2  1  1  2  0
+    ATC  0  1  3  1  1  1 |     ACC  2  2  1  1  1  0 |     AAC  3  3  6  5  5  5 |     AGC  1  0  1  2  1  1
+    ATA  8  3  0  4  4  3 |     ACA  4  2  2  4  2  1 | Lys AAA  4  8  4  7  6  7 | Arg AGA  4  4  4  2  4  5
+Met ATG  2  3  3  3  3  3 |     ACG  1  3  0  1  2  2 |     AAG  3  2  2  2  2  2 |     AGG  1  0  1  1  0  0
+--------------------------------------------------------------------------------------------------------------
+Val GTT  0  1  0  2  0  0 | Ala GCT  2  2  0  2  3  4 | Asp GAT  2  1  5  1  1  2 | Gly GGT  1  1  3  1  1  2
+    GTC  0  0  0  0  0  0 |     GCC  1  0  0  0  1  0 |     GAC  0  1  0  0  0  1 |     GGC  0  1  1  1  1  0
+    GTA  1  1  0  1  0  0 |     GCA  2  1  5  2  2  2 | Glu GAA  3  4  3  5  5  4 |     GGA  1  1  1  1  1  1
+    GTG  0  0  1  0  0  0 |     GCG  1  0  1  0  0  1 |     GAG  1  2  3  1  2  1 |     GGG  1  0  0  0  0  0
+--------------------------------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: castellii      
+position  1:    T:0.18812    C:0.20792    A:0.44554    G:0.15842
+position  2:    T:0.22772    C:0.23762    A:0.37624    G:0.15842
+position  3:    T:0.26733    C:0.15842    A:0.36634    G:0.20792
+Average         T:0.22772    C:0.20132    A:0.39604    G:0.17492
+
+#2: mikatae        
+position  1:    T:0.19626    C:0.25234    A:0.40187    G:0.14953
+position  2:    T:0.23364    C:0.20561    A:0.42056    G:0.14019
+position  3:    T:0.27103    C:0.12150    A:0.36449    G:0.24299
+Average         T:0.23364    C:0.19315    A:0.39564    G:0.17757
+
+#3: kluyveri       
+position  1:    T:0.21000    C:0.20000    A:0.36000    G:0.23000
+position  2:    T:0.22000    C:0.21000    A:0.38000    G:0.19000
+position  3:    T:0.28000    C:0.16000    A:0.37000    G:0.19000
+Average         T:0.23667    C:0.19000    A:0.37000    G:0.20333
+
+#4: cerevisiae     
+position  1:    T:0.20000    C:0.25455    A:0.39091    G:0.15455
+position  2:    T:0.23636    C:0.20909    A:0.41818    G:0.13636
+position  3:    T:0.27273    C:0.13636    A:0.42727    G:0.16364
+Average         T:0.23636    C:0.20000    A:0.41212    G:0.15152
+
+#5: paradoxus      
+position  1:    T:0.23148    C:0.21296    A:0.39815    G:0.15741
+position  2:    T:0.21296    C:0.25000    A:0.38889    G:0.14815
+position  3:    T:0.28704    C:0.12963    A:0.40741    G:0.17593
+Average         T:0.24383    C:0.19753    A:0.39815    G:0.16049
+
+#6: kudriavzevii   
+position  1:    T:0.20370    C:0.23148    A:0.39815    G:0.16667
+position  2:    T:0.22222    C:0.23148    A:0.40741    G:0.13889
+position  3:    T:0.30556    C:0.14815    A:0.32407    G:0.22222
+Average         T:0.24383    C:0.20370    A:0.37654    G:0.17593
+
+Codon usage in genes
+--------------------------------------------------------------
+Phe TTT  0  4 | Ser TCT  0  9 | Tyr TAT  0 11 | Cys TGT  0 14
+    TTC  0  2 |     TCC  0  5 |     TAC  0  9 |     TGC  0  4
+Leu TTA  0 13 |     TCA  0 25 | *** TAA  0  0 | *** TGA  0  0
+    TTG  0 20 |     TCG  0  8 |     TAG  0  0 | Trp TGG  0  6
+--------------------------------------------------------------
+Leu CTT  0 14 | Pro CCT  0  9 | His CAT  0  6 | Arg CGT  0  6
+    CTC  0  9 |     CCC  0  2 |     CAC  0  1 |     CGC  0  3
+    CTA  0 10 |     CCA  0 12 | Gln CAA  0 34 |     CGA  0  2
+    CTG  0  5 |     CCG  0  0 |     CAG  0 30 |     CGG  0  1
+--------------------------------------------------------------
+Ile ATT  0 13 | Thr ACT  0  9 | Asn AAT  0 38 | Ser AGT  0  8
+    ATC  0  7 |     ACC  0  7 |     AAC  0 27 |     AGC  0  6
+    ATA  0 22 |     ACA  0 15 | Lys AAA  0 36 | Arg AGA  0 23
+Met ATG  6 11 |     ACG  0  9 |     AAG  0 13 |     AGG  0  3
+--------------------------------------------------------------
+Val GTT  0  3 | Ala GCT  0 13 | Asp GAT  0 12 | Gly GGT  0  9
+    GTC  0  0 |     GCC  0  2 |     GAC  0  2 |     GGC  0  4
+    GTA  0  3 |     GCA  0 14 | Glu GAA  0 24 |     GGA  0  6
+    GTG  0  1 |     GCG  0  3 |     GAG  0 10 |     GGG  0  1
+--------------------------------------------------------------
+
+Codon position x base (3x4) table for each gene.
+
+
+Gene #1
+position  1:    T:0.00000    C:0.00000    A:1.00000    G:0.00000
+position  2:    T:1.00000    C:0.00000    A:0.00000    G:0.00000
+position  3:    T:0.00000    C:0.00000    A:0.00000    G:1.00000
+Average         T:0.33333    C:0.00000    A:0.33333    G:0.33333
+
+Gene #2
+position  1:    T:0.20701    C:0.22930    A:0.39331    G:0.17038
+position  2:    T:0.21815    C:0.22611    A:0.40287    G:0.15287
+position  3:    T:0.28344    C:0.14331    A:0.38057    G:0.19268
+Average         T:0.23620    C:0.19958    A:0.39225    G:0.17197
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT       4 | Ser S TCT       9 | Tyr Y TAT      11 | Cys C TGT      14
+      TTC       2 |       TCC       5 |       TAC       9 |       TGC       4
+Leu L TTA      13 |       TCA      25 | *** * TAA       0 | *** * TGA       0
+      TTG      20 |       TCG       8 |       TAG       0 | Trp W TGG       6
+------------------------------------------------------------------------------
+Leu L CTT      14 | Pro P CCT       9 | His H CAT       6 | Arg R CGT       6
+      CTC       9 |       CCC       2 |       CAC       1 |       CGC       3
+      CTA      10 |       CCA      12 | Gln Q CAA      34 |       CGA       2
+      CTG       5 |       CCG       0 |       CAG      30 |       CGG       1
+------------------------------------------------------------------------------
+Ile I ATT      13 | Thr T ACT       9 | Asn N AAT      38 | Ser S AGT       8
+      ATC       7 |       ACC       7 |       AAC      27 |       AGC       6
+      ATA      22 |       ACA      15 | Lys K AAA      36 | Arg R AGA      23
+Met M ATG      17 |       ACG       9 |       AAG      13 |       AGG       3
+------------------------------------------------------------------------------
+Val V GTT       3 | Ala A GCT      13 | Asp D GAT      12 | Gly G GGT       9
+      GTC       0 |       GCC       2 |       GAC       2 |       GGC       4
+      GTA       3 |       GCA      14 | Glu E GAA      24 |       GGA       6
+      GTG       1 |       GCG       3 |       GAG      10 |       GGG       1
+------------------------------------------------------------------------------
+
+(Ambiguity data are not used in the counts.)
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.20505    C:0.22713    A:0.39905    G:0.16877
+position  2:    T:0.22555    C:0.22397    A:0.39905    G:0.15142
+position  3:    T:0.28076    C:0.14196    A:0.37697    G:0.20032
+Average         T:0.23712    C:0.19769    A:0.39169    G:0.17350
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Pairwise deletion)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+castellii           
+mikatae              0.1010 (0.2671 2.6435)
+kluyveri            -1.0000 (0.3250 -1.0000)-1.0000 (0.3494 -1.0000)
+cerevisiae           0.1235 (0.2890 2.3406) 0.0606 (0.0586 0.9673)-1.0000 (0.3866 -1.0000)
+paradoxus            0.1495 (0.2804 1.8756) 0.0900 (0.0667 0.7406)-1.0000 (0.3889 -1.0000) 0.1303 (0.0405 0.3113)
+kudriavzevii         0.0798 (0.2894 3.6250) 0.0442 (0.0753 1.7057)-1.0000 (0.3873 -1.0000) 0.0680 (0.0616 0.9054) 0.1161 (0.0617 0.5317)
+
+
+TREE #  1:  (((((4, 5), 2), 6), 1), 3);   MP score: -1
+lnL(ntime:  5  np: 10):  -1359.195491      +0.000000
+   7..8     8..9     9..10   10..11   11..4    11..5    10..2     9..6     8..1     7..3  
+ 0.090968 0.072027 0.018291 0.016050 0.008077 22.257497 759.093517 0.000100 2.424004 0.091113
+SEs for parameters:
+ -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 -1.000000 374083346112862784.000000 59865424.181158 0.404664 0.015346
+Note: Branch length is defined for the first gene (site partition).
+For other genes, look at "rates for genes".
+
+tree length =   0.29638 (1st gene)
+
+(((((4: 0.008077, 5: 0.008077): 0.007973, 2: 0.016050): 0.002240, 6: 0.018291): 0.053736, 1: 0.072027): 0.018940, 3: 0.090968);
+
+(((((cerevisiae: 0.008077, paradoxus: 0.008077): 0.007973, mikatae: 0.016050): 0.002240, kudriavzevii: 0.018291): 0.053736, castellii: 0.072027): 0.018940, kluyveri: 0.090968);
+
+Detailed output identifying parameters
+
+rates for 2 genes:     1 22.25750
+
+gene # 1: kappa = 759.09352 omega =   0.00010
+gene # 2: kappa =   2.42400 omega =   0.09111
+
+Time used:  1:12

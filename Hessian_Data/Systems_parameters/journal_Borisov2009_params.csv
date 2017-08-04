@@ -1,0 +1,109 @@
+Parameter,Dyn infl,Reactions
+Km31,0.517959926,"reaction_31, reaction_44, reaction_100, reaction_99"
+Km40,0.148897139,reaction_40
+Km41,0.78654819,reaction_41
+Km43,0.381937272,reaction_43
+Km50,0.619730321,reaction_50
+Km51,0.743043419,"reaction_51, reaction_105, reaction_104, reaction_107, reaction_106"
+Km57,0.358348082,reaction_57
+Km58,0.004427989,reaction_58
+Km62,0.196331863,reaction_62
+Km63,0.432509921,reaction_63
+Km65,0.380297217,reaction_65
+Km66,0.133927986,reaction_66
+Km67,0.739351924,reaction_67
+Km68,0.218617387,reaction_68
+Km69,0.591520071,reaction_69
+Km70,0.272697651,"reaction_70, reaction_71"
+Km71,0.514633256,"reaction_70, reaction_71"
+Km72,0.401853974,"reaction_72, reaction_73"
+Km73,0.329589914,"reaction_72, reaction_73"
+Km75,1.211986161,reaction_75
+Km76,0.074874083,reaction_76
+Km77,0.405825265,reaction_77
+Km78,0.289147402,reaction_78
+Km79,0.702798846,reaction_79
+Km8,0.371142437,reaction_8
+Km80,1.114104934,"reaction_117, reaction_80"
+Km81,0.393777427,reaction_81
+Km82,1.077558348,reaction_82
+Km84,0.623104318,reaction_84
+V31,0.527895403,"reaction_31, reaction_44, reaction_100, reaction_99"
+V41,0.84771097,reaction_41
+V51,0.749792168,"reaction_51, reaction_105, reaction_104, reaction_107, reaction_106"
+V58,0.004428175,reaction_58
+V69,0.660430758,reaction_69
+V72,0.593662597,reaction_72
+V73,0.379591427,reaction_73
+V76,1.364723957,reaction_76
+V8,0.372139427,reaction_8
+V_82,1.080966761,reaction_82
+V_84,0.625664153,reaction_84
+alpha40,0.103649362,reaction_40
+alpha43,0.016906603,reaction_43
+alpha50,0.002952254,reaction_50
+alpha67,0.004500592,reaction_67
+alpha77,0.641264171,reaction_77
+beta67,0.000677606,reaction_67
+k1,0.003227632,reaction_1
+k10,0.182099998,reaction_10
+k111,0.357898591,"reaction_114, reaction_115, reaction_112, reaction_113, reaction_111"
+k118,0.264580701,reaction_118
+k12,0.069654064,reaction_12
+k13,0.443902968,reaction_13
+k17,0.061484042,"reaction_21, reaction_20, reaction_23, reaction_22, reaction_36, reaction_37, reaction_34, reaction_35, reaction_38, reaction_18, reaction_19, reaction_17"
+k2,0.01660283,reaction_2
+k24,0.014896473,reaction_24
+k25,0.02139813,reaction_25
+k26,0.016906852,reaction_26
+k27,0.020016434,reaction_27
+k28,0.198720362,reaction_28
+k29,0.099257987,reaction_29
+k3,0.190489801,reaction_3
+k30,0.287924939,reaction_30
+k4,0.104706597,reaction_4
+k42,1.258638686,"reaction_42, reaction_89, reaction_88, reaction_94, reaction_96, reaction_97, reaction_90, reaction_91, reaction_92, reaction_93, reaction_98"
+k45,0.000138211,reaction_45
+k46,0.320313412,reaction_46
+k47,0.108541112,reaction_47
+k48,0.18709025,"reaction_48, reaction_101"
+k49,1.0933374,"reaction_49, reaction_95"
+k5,0.4096947,reaction_5
+k52,0.460317423,reaction_52
+k53,0.59175527,reaction_53
+k54,0.044733364,reaction_54
+k55,0.562821187,reaction_55
+k56,0.924553954,"reaction_56, reaction_110, reaction_109, reaction_108, reaction_103, reaction_102"
+k59,0.125402068,reaction_59
+k6,0.20373794,reaction_6
+k60,1.999309506,reaction_60
+k61,1.818906447,reaction_61
+k7,0.269955283,reaction_7
+k74,0.008610546,reaction_74
+k83,0.892169958,reaction_83
+k85,0.589650533,reaction_85
+k9,0.155506887,reaction_9
+k_64,0,reaction_64
+k_77,0.75488173,reaction_77
+k_78,0.438325187,reaction_78
+k_79,0.071205645,reaction_79
+k_80,0.15428191,"reaction_117, reaction_80"
+k_81,0.059811469,reaction_81
+kcat40,0.843156069,reaction_40
+kcat43,0.52281109,reaction_43
+kcat50,0.679774979,reaction_50
+kcat57,0.360531083,reaction_57
+kcat62,0.581895183,reaction_62
+kcat63,0.596763744,reaction_63
+kcat65,0.447331469,reaction_65
+kcat66,0.668256271,reaction_66
+kcat67,0.741259501,reaction_67
+kcat68,0.661162621,reaction_68
+kcat70,0.383659883,reaction_70
+kcat71,0.603835644,reaction_71
+kcat75,1.365654378,reaction_75
+kcat77,0.755642778,reaction_77
+kcat78,0.438428047,reaction_78
+kcat79,0.714956057,reaction_79
+kcat80,1.124421086,"reaction_117, reaction_80"
+kcat81,0.490491264,reaction_81

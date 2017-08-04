@@ -1,0 +1,19 @@
+Saccharomyces cerevisiae, (sc) GCF_000146045.2_R64_protein.faa
+-Saccharomyces paradoxus, (sp)
+-Saccharomyces mikatae, (sm)
+-Saccharomyces bayanus, (sb)
+-Saccharomyces kluyveri, (sk)
+Candida glabrata, (cg) GCF_000002545.3_ASM254v2_protein.faa
+*Kluyveromyces thermotolerans, (kt) GCF_000142805.1_ASM14280v1_protein.faa
+-Kluyveromyces waltii, (kw)
+Kluyveromyces lactis, (kl) GCF_000002515.2_ASM251v1_protein.faa
+-*Kluyveromyces polysporus, (kp)
+Ashbya gossypii, Eremothecium_gossypii (eg) GCF_000091025.4_ASM9102v4_protein.faa
+Candida albicans, (ca) GCF_000182965.2_ASM18296v2_protein.faa
+Candida dubliniensis, (cd) GCF_000026945.1_ASM2694v1_protein.faa
+Candida tropicalis, (ct) GCF_000006335.2_ASM633v2_protein.faa
+Candida guilliermondii, Meyerozyma_guilliermondii (mg) GCF_000149425.1_ASM14942v1_protein.faa
+Candida lusitaniae, Clavispora_lusitaniae (cl) GCF_000003835.1_ASM383v1_protein.faa
+Lodderomyces elongisporus, (le) GCF_000149685.1_ASM14968v1_protein.faa
+Debaryomyces hansenii, (dh) GCF_000006445.2_ASM644v2_protein.faa
+*Scheffersomyces stipitis (ss) GCF_000209165.1_ASM20916v1_protein.faa

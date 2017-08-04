@@ -1,0 +1,32 @@
+Protein,Gene ID,Knockout growth rate,Expression level,Expression breadth,Interaction degree,Betweeness centrality,References (PMIDs),Domain,Amino acids,dN/dS,Reactions,Dynamical influence
+Bub2,YMR055C,1.01238,0.3,,9,0.000304711,19158491,GAP,40-258,0.02199,inactivation_1,0.545063603
+Cdc14,YFR028C,0,1,,8,4.30709E-05,"12853468, 11274204",phosphatase,1-331,0.01514,"Activation_of_SWI5, Assoc_with_NET1P_to_form_RENTP, Assoc_with_NET1_to_form_RENT, CDC15_activation, CDH1i_activation, Dephosphorylation_of_C2P, Dephosphorylation_of_C5P, Dephosphorylation_of_CDC6, Dephosphorylation_of_SIC1, Dissoc_from_RENP, Dissoc_from_RENT, F2P_dephosphorylation, F5P_dephosphorylation",0.164077205
+Cdc15,YAR019C,0,0.2,,7,0.001243225,"15640837, 9482731, 11290702",Tem binding,280-363,0.15696,"CDC15_activation, inactivation_2",0.032766108
+Cdc15,YAR019C,0,0.2,,7,0.001243225,"15640837, 9482731, 11290702",kinase,26-274,0.01649,"NET1_phosphorylation, RENT_phosphorylation",0.220925957
+Cdc20,YGL116W,0,0.6,,8,0.000209348,"12152084,  9461437, 10632713",APC binding,"1-268, 576-609",0.06292,"Activation_of_CDC20, Inactivation_2",0.494495763
+Cdc20,YGL116W,0,0.6,,8,0.000209348,"12152084,  9461437, 10632713",WD40,268-576,0.02103,"CLB5_degradation_in_F5, CLB5_degradation_in_F5P, Degradation_of_CLB5_in_C5, Degradation_of_CLB5_in_C5P, Degradation_of_PDS1_in_PE, degradation_1, degradation_2",0.616224794
+Cdc28,YBR160W,0,2.2,,32,0.00326107,8500168,kinase,185-483,0.00511,"F2_phosphorylation, F5_phosphorylation, Phosphorylation_of_C2, Phosphorylation_of_C5, Phosphorylation_of_CDC6, Phosphorylation_of_SIC1",0.470074765
+Cdc55,YGL190C,0,0.6,,10,0.000413649,16713564,WD40,"23-65, 83-125, 183-222, 232-273, 291-330, 346-388, 500-531",0.0077,"degradation_1, dephosphorylation_1, dephosphorylation_2",0.433351352
+Cdc6,YJL194W,0,0.4,,8,0.000267442,11460169,Cdc28 binding,5-92,0.18819,"CLB2CDC6_complex_formation, CLB2CDC6_dissociation, CLB5CDC6_complex_formation, CLB5CDC6_dissociation, Dephosphorylation_of_CDC6, F2P_dephosphorylation, F2_phosphorylation, F5P_dephosphorylation, F5_phosphorylation, Phosphorylation_of_CDC6",0.378439108
+Cdh1,YGL003C,0.87999,0.3,,4,3.81153E-05,"15916961, 12152084, 10074450, 21307936",APC binding,"1-289, 584-597",0.04393,"CDH1i_activation, Inactivation_3",0.215660227
+Cdh1,YGL003C,0.87999,0.3,,4,3.81153E-05,"15916961, 12152084, 10074450, 21307936",WD40,289-584,0.01628,"CLB2_degradation_in_F2, CLB2_degradation_in_F2P, Degradation_of_CLB2_in_C2, Degradation_of_CLB2_in_C2P, Degradation_of_PDS1_in_PE, degradation_2",0.599031376
+Clb2,YPR119W,0.97962,1.1,,16,0.001048239,"11719221, 12413490, 12152084, 21307936",N-terminal,1-66,0.05948,"CLB2_degradation_in_F2, CLB2_degradation_in_F2P, Degradation_of_CLB2_in_C2, Degradation_of_CLB2_in_C2P",0.425559583
+Clb2,YPR119W,0.97962,1.1,,16,0.001048239,"11719221, 12413490, 12152084, 21307936",cyclin,226-478,0.00693,"Assoc_of_CLB2_and_SIC1, CLB2CDC6_complex_formation, CLB2CDC6_dissociation, Dissoc_of_CLB2SIC1_complex, Inactivation_3, Inactivation_of_SWI5",0.22010539
+Clb5,YPR120C,0.93585,0.9,,4,0.000218854,"11572976, 15105375",cyclin,"172-301, 303-423",0.06842,"Assoc_of_CLB5_and_SIC1, CLB5CDC6_complex_formation, CLB5CDC6_dissociation, Dissoc_of_CLB5SIC1, Inactivation_3",0.138361707
+Clb5,YPR120C,0.93585,0.9,,4,0.000218854,"11572976, 15105375",n-terminal,1-172,0.32534,"CLB5_degradation_in_F5, CLB5_degradation_in_F5P, Degradation_of_CLB5_in_C5, Degradation_of_CLB5_in_C5P",0.449433756
+Cln2,YPL256C,1.0136,1.2,,8,8.49954E-05,"15454532, 9234722",cyclin,62-197,0.02508,"F2_phosphorylation, F5_phosphorylation, Inactivation_3, Phosphorylation_of_C2, Phosphorylation_of_C5, Phosphorylation_of_CDC6, Phosphorylation_of_SIC1",0.369791098
+Cln3,YAL040C,0.96307,1.1,,14,0.000414952,16200502,cyclin,96-219,0.0381,Inactivation_3,0.213678613
+Esp1,YGR098C,0,0.6,,2,8.08224E-06,"15880121, 11081625, 12123570",n-terminal,1-1204,0.13394,"Assoc_with_ESP1_to_form_PE, Disso_from_PE",0.160103127
+Esp1,YGR098C,0,0.6,,2,8.08224E-06,"15880121, 11081625, 12123570",separase,1204-1636,0.06193,,
+Lte1,YAL024C,0.99705,0.2,,4,0.000859186,19948498,GEF,"32-170, 1226-1467",0.04265,TEM1_activation,0.1375019
+Mad2,YJL030W,1.00383,1,,13,0.000591114,9461437,HORMA,8-193,0.04083,Inactivation_2,0.091131912
+Mcm1,YMR043W,0,1.6,,12,0.000784221,12052870,MADS box,25-80,0.00059,"PDS1_synthesis, Synthesis_of_CLB2, Synthesis_of_SWI5, Synthesis_of_inactive_CDC20",1.488277863
+Net1,YJL076W,0,0.4,,10,0.000678886,15273393,Cdc14 binding,1-360,0.067,"Assoc_with_NET1P_to_form_RENTP, Assoc_with_NET1_to_form_RENT, Dissoc_from_RENP, Dissoc_from_RENT, NET1_phosphorylation, RENT_phosphorylation, dephosphorylation_1, dephosphorylation_2",0.350568416
+Pds1,YDR113C,0,0.3,,4,0.000136913,"12123570, 15880121, 16483313, 11553328",WD40 binding,2-182,0.08447,"Degradation_of_PDS1_in_PE, degradation_2",0.843215859
+Pds1,YDR113C,0,0.3,,4,0.000136913,"12123570, 15880121, 16483313, 11553328",separase binding,182-404,0.21132,"Assoc_with_ESP1_to_form_PE, Disso_from_PE",0.160103127
+Rap1Y,YNL216W,0,0.9,,8,0.000465906,21217703,Myb1,375-428,0.00295,"CDC6_synthesis, PDS1_synthesis, Synthesis_of_CLB5, Synthesis_of_CLN2",1.456006404
+Rap1Y,YNL216W,0,0.9,,8,0.000465906,21217703,Myb2,462-611,0.02938,"CDC6_synthesis, PDS1_synthesis, Synthesis_of_CLB5, Synthesis_of_CLN2",1.456006404
+Sic1,YLR079W,0.85308,1.9,,12,0.000427351,"20399186, 15649124",Cdk1 inhibitor,276-350,0.08309,"Assoc_of_CLB2_and_SIC1, Assoc_of_CLB5_and_SIC1, Dephosphorylation_of_C2P, Dephosphorylation_of_C5P, Dephosphorylation_of_SIC1, Dissoc_of_CLB2SIC1_complex, Dissoc_of_CLB5SIC1, Phosphorylation_of_C2, Phosphorylation_of_C5, Phosphorylation_of_SIC1",0.248247415
+Sic1,YLR079W,0.85308,1.9,,12,0.000427351,"20399186, 15649124",cdc4 binding,30-130,0.12947,,
+Swi5,YDR146C,0.99595,0.8,,8,0.000115067,10409653,dna binding,569-679,0.02173,"Activation_of_SWI5, CDC6_synthesis, Inactivation_of_SWI5, Synthesis_of_SIC1",0.928687455
+Tem1,YML064C,0,0.7,,74,0.009721141,"15640837, 9482731",GTP-ase,55-284,0.0318,"CDC15_activation, TEM1_activation, inactivation_1, inactivation_2",0.06648789

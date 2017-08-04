@@ -1,0 +1,8 @@
+Protein,Gene ID,Knockout growth rate,Expression level,Expression breadth,Interaction degree,Betweeness centrality,References (PMIDs),Domain,Amino acids,dN/dS,Reactions,Dynamical influence
+G6pi,YBR196C,0,15.4,,10,0.000301793,,isomerase,50-610,0.07749,pgi,0.552385977
+Hxk1,YFR053C,1.03412,3.7,,,,,hexokinase,"21-225, 225-474",0.0503,hxk,0.264964652
+Nth1,YDR001C,1.00914,1.5,,7,0.000452943,9276477,trehalase,73-752,0.02071,nth,0.730591525
+Pgm2,YMR105C,1.00167,0.3,,,,22505741,phosphohexomutase,1-571,0.05075,pgm,0.289834988
+Tps1,YBR126C,0.83887,2.8,,11,0.001001013,8444170,synthase,4-506,0.01472,tps,1.061068663
+Tps2,YDR074W,0.94489,0.7,,16,0.001154998,8444170,phosphatase,1-911,0.01663,tpp,0.934904998
+Ugp1,YKL035W,0,5.5,,10,0.000317098,7588797,phosphorylase,16-499,0.02981,ugp,0.55134189

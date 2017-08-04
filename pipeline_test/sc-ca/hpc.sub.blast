@@ -1,0 +1,86 @@
+#!/bin/csh
+### script to run a serial job using one core on htc using queue windfall or standard
+### please note that 3 hash tag is commented out, 1 hash tag is passed as command
+
+###CHANGE ME!
+### Set the job name
+#PBS -N bjernigan
+
+### Request email when job begins and ends
+#PBS -m bea
+
+###CHANGE ME!
+### Specify email address to use for notification.
+#PBS -M brandonjernigan@email.arizona.edu
+
+###CHANGE ME!
+### Specify the PI group for this job
+### List of PI groups available to each user can be found with "va" command
+#PBS -W group_list=rgutenk
+
+### Submit an array of jobs
+###PBS -J 1-4
+
+### Set the queue for this job as windfall or standard (adjust ### and #)
+#PBS -q standard
+###PBS -q windfall
+###PBS -q htc_high
+
+### Pass your environment variables to the pbs job
+#PBS -V
+### Join standard out and standar error messages
+#PBS -j oe
+
+
+### Set the jobtype for this job (serial, small_mpi, small_smp, large_mpi, large_smp)
+### jobtype=serial submits to htc and can be automatically moved to cluster and smp
+### Type parameter determines initial queue placement and possible automatic queue moves
+#PBS -l jobtype=serial
+
+### Set the number of cores (cpus) and memory that will be used for this job
+### When specifying memory request slightly less than 2GB memory per ncpus for standard node
+### Some memory needs to be reserved for the Linux system processes
+#PBS -l select=1:ncpus=1:mem=3gb:pcmem=4gb
+
+### Important!!! Include this line for your 1p job.
+### Without it, the entire node, containing 12 core, will be allocated
+#PBS -l place=pack:shared
+
+### Specify "wallclock time" required for this job, hhh:mm:ss
+#PBS -l walltime=80:00:00
+
+### Specify total cpu time required for this job, hhh:mm:ss
+### total cputime = walltime * ncpus
+#PBS -l cput=80:00:00
+
+###########################################################
+###executable commands below
+###########################################################
+
+### Load required modules/libraries if needed (blas example)
+### Use "module avail" command to list all available modules
+### NOTE: /usr/share/Modules/init/csh -CAPITAL M in Modules
+#source /usr/share/Modules/init/csh
+module load blast/ncbi-2.2.26-base
+module load perl
+
+### set directory for job execution, ~ = home directory path
+cd /rsgrps/rgutenk/bjernigan/inparanoid_yeast/sc-ca
+
+
+### run blastn algorithms with a different, potentially more useful output format
+
+###perl inparanoid.pl sc cg
+###perl inparanoid.pl sc dh
+###perl inparanoid.pl sc kt
+perl inparanoid.pl sc ca
+###perl inparanoid.pl sc cl
+###perl inparanoid.pl sc le
+###perl inparanoid.pl sc mg
+###perl inparanoid.pl sc cd
+###perl inparanoid.pl sc ct
+###perl inparanoid.pl sc eg
+###perl inparanoid.pl sc kl
+###perl inparanoid.pl sc ss
+
+

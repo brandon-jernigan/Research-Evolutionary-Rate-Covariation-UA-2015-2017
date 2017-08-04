@@ -1,0 +1,42 @@
+Parameter,Dyn infl,Reactions
+Jcdc15,0.075684847,"v30, v26, v25"
+Jcdh,0.976560953,"v5, v6"
+Jnet,0.505898136,"v13, v17, v14"
+Jpolo,0.407589039,"v21, v20"
+Jtem1,0.080517044,"v23, v24, v29"
+kaacdc15,0.455414722,v25
+kaadclb2,1.296954422,v2
+kaapolo,0.78958283,v20
+kaatem,5.408411939,v23
+kacdc15,0.055427928,v25
+kad,0.15712986,v13
+kadcdc20,0.150368395,v4
+kadcdh,9.682639742,v5
+kadclb2,4.563959882,v2
+kadpolo,0.490760938,"v19, v22"
+kadsecurin,1.419968315,"securinseparase_securindegradation, v8"
+kaicdc15,0.323713365,"v30, v26"
+kaitem,3.769050898,"v24, v29"
+kap,0.486873737,"v17, v14"
+kapcdh,9.402485862,v6
+kd,1.023567152,v13
+kdcdc20,1.854973692,v4
+kdcdh,0.208338782,v5
+kdclb2,4.498221604,v2
+kdpolo,1.129457759,"v19, v22"
+kdsecurin,0.387294302,"securinseparase_securindegradation, v8"
+kdseparase,0.301120904,"v10, securinseparase_separase_degradation"
+kipolo,0.807640561,v21
+kitem,1.218671578,"v24, v29"
+kp,1.067506177,"v17, v14"
+kscdc20,4.940306478,v3
+ksclb2,6.249478362,v1
+kspolo,1.073031195,v18
+kssecurin,1.253104328,v7
+ksseparase,0.301194981,v9
+lamen,0.113699442,v27
+lanet,0.030613844,v15
+lasecurin,0.085678645,v11
+ldmen,0.011885214,v28
+ldnet,0.019642017,v16
+ldsecurin,0.073982857,v11

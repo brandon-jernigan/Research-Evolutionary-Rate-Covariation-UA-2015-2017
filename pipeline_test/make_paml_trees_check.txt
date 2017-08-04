@@ -1,0 +1,1 @@
+((((thermotole:0.00000):0.00000,(lactis:0.00000,gossypii:0.00000):0.00000):0.00000,(cerevisiae:0.00000,glabrata:0.00000):0.00000):0.00000,(((((dubliniens:0.00000,tropicalis:0.00000):0.00000,elongispor:0.00000):0.00000,stipitis:0.00000):0.00000,hansenii:0.00000):0.00000,lusitaniae:0.00000):0.00000):0.00000;
