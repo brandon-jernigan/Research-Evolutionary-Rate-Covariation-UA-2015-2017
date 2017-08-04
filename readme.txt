@@ -2,13 +2,9 @@ Author: Brandon Jernigan
 Email: BrandonJernigan@email.arizona.edu
 Date: 6/26/2017
 
-Thesis Abstract:
-Evolutionary rate covariation (ERC) is a phylogenetic measure of the evolutionary relationship between pairs of proteins. As proteins evolve over time, 
-their rate of evolution (dN/dS) may vary. ERC measures how closely the evolutionary rates of two proteins match over a phylogeny. Proteins known to interact 
-directly or indirectly tend to have higher ERC, because they typically experience similar evolutionary pressures within each lineage. Much is known about ERC 
-at the whole protein level, but little is known at the domain level. Because individual functions of a protein are often performed by distinct domains, 
-a focus on the domain level is expected to provide a clearer relationship between specific functions and ERC. Here we investigate ERC within and between domain 
-families. In particular, we identify domain families with high ERC and investigate potential biochemical explanations.
+Thesis Abstract for "Evolutionary Rate Covariation of Domain Families":
+
+Evolutionary rate covariation (ERC) is a phylogenetic measure of the evolutionary relationship between pairs of proteins. As proteins evolve over time, their rate of evolution (dN/dS) may vary. ERC measures how closely the evolutionary rates of two proteins match over a phylogeny. Proteins known to interact directly or indirectly tend to have higher ERC, because they typically experience similar evolutionary pressures within each lineage. Much is known about ERC at the whole protein level, but little is known at the domain level. Because individual functions of a protein are often performed by distinct domains, a focus on the domain level is expected to provide a clearer relationship between specific functions and ERC. Here we investigate ERC within and between domain families. In particular, we identify domain families with high ERC and investigate potential biochemical explanations.
 
 
 Files:
