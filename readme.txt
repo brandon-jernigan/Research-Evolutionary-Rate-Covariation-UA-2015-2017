@@ -12,9 +12,7 @@ Senior Thesis Final.docx is my biochemistry senior thesis on this project "Evolu
 
 Research_Notes.pdf and Research_Notes.onepkg are 2 formats of my notes throughout the project. The .onepkg is easier to navigate, but only works with One Note.
 
-pipeline.py is the pipeline run after inparanoid which takes its results and produces a list of phylogenetic trees
-with branch lengths that the script ERC_concise.R can use to calculate ERC values. This can be split into domains or
-can be for the whole protein. Each funciton in the pipeline has a description within the script.
+pipeline.py is the pipeline run after inparanoid which takes its results and produces a list of phylogenetic trees with branch lengths that the script ERC_concise.R can use to calculate ERC values. This can be split into domains or can be for the whole protein. Each funciton in the pipeline has a description within the script.
 
 pipeline_test_script.py is a python unit test script that ensures the major functions in pipeline.py work the way they are supposed to even when they get altered.
 
